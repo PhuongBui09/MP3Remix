@@ -41,6 +41,34 @@ const musicList = [
         linkAu: "Em nào có tội.mp3",
         img: "./assests/img/Em nào có tội.jpg",
       },
+      {
+        id: 7,
+        name: "Vở kịch của em",
+        singer: "Vây Giữ REMIX",
+        linkAu: "Vở kịch của em.mp3",
+        img: "./assests/img/Vở kịch của em.jpg",
+      },
+      {
+        id: 8,
+        name: "Yêu thương chẳng là mãi mãi",
+        singer: "DC Tâm - Thazh Remix",
+        linkAu: "Yêu thương chẳng là mãi mãi.mp3",
+        img: "./assests/img/Yêu thương chẳng là mãi mãi.jpg",
+      },
+      {
+        id: 9,
+        name: "Anh thôi nhân nhượng",
+        singer: "KIỀU CHI COVER",
+        linkAu: "Anh thôi nhân nhượng.mp3",
+        img: "./assests/img/Anh thôi nhân nhượng.jpg",
+      },
+      {
+        id: 10,
+        name: "Rằng em mãi ở bên",
+        singer: "Bích Phương (speed up)",
+        linkAu: "Rằng em mãi ở bên.mp3",
+        img: "./assests/img/Rằng em mãi ở bên.jpg",
+      },
   ];
   
   export { musicList };
