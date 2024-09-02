@@ -160,6 +160,13 @@ const musicList = [
     linkAu: "探故知.mp3",
     img: "./assests/img/探故知.jpg",
   },
+  {
+    id: 24,
+    name: "Rồi tới luôn",
+    singer: "Nal",
+    linkAu: "Rồi tới luôn.mp3",
+    img: "./assests/img/Rồi tới luôn.jpg",
+  },
 ];
 
 export { musicList };
